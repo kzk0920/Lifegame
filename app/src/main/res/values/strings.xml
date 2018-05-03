@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lifegame</string>
+    <string name="init">Init</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="generation">Generation:%1$d</string>
+    <string name="alive">Alive:%1$d</string>
+    <string name="dead">Dead:%1$d</string>
+</resources>
